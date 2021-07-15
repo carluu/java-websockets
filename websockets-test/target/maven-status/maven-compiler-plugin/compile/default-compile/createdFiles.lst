@@ -1,0 +1,5 @@
+com/cuu/websocket/ChatEndpointConfigurator.class
+com/cuu/websocket/MessageDecoder.class
+com/cuu/websocket/ChatEndpoint.class
+com/cuu/websocket/Message.class
+com/cuu/websocket/MessageEncoder.class
